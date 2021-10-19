@@ -1,0 +1,5 @@
+{
+    "files.watcherExclude": {
+        "/home/bruno/codigos_fonte/java/estudos/curso_angular_9/clientes-app/node_modules/**": true
+    }
+}
