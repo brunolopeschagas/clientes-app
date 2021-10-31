@@ -16,6 +16,10 @@ export class ClientesFormComponent implements OnInit {
     this.cliente = new Cliente(0, 'bruno', '090909', '12/12/202');
   }
 
+  clicar(){
+    alert("Clicou");
+  }
+
   ngOnInit(): void {
   }
 
